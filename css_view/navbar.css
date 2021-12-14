@@ -1,0 +1,8 @@
+.bg-blue {
+    background-color: rgb(181, 111, 255) !important;
+    transition-duration: 0.3s;
+}
+
+.bg-blue:hover {
+    background-color: rgb(152, 165, 252) !important;
+}
