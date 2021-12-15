@@ -792,7 +792,7 @@ body {
     overflow: hidden;
 }
 
-.button_joinus {
+.button_join {
     width: 120px;
     height: 45px;
     border: none;
@@ -807,7 +807,7 @@ body {
     border-radius: 20px;
 }
 
-.button_joinus:before {
+.button_join:before {
     content: '';
     background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
     position: absolute;
@@ -823,19 +823,19 @@ body {
     border-radius: 20px;
 }
 
-.button_joinusr:active {
+.button_join:active {
     color: #000
 }
 
-.button_joinus:active:after {
+.button_join:active:after {
     background: transparent;
 }
 
-.button_joinusr:hover:before {
+.button_join:hover:before {
     opacity: 1;
 }
 
-.button_joinus:after {
+.button_join:after {
     z-index: -1;
     content: '';
     position: absolute;
