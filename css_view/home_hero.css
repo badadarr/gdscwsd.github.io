@@ -792,7 +792,7 @@ body {
     overflow: hidden;
 }
 
-.button_join {
+.joinus {
     width: 120px;
     height: 45px;
     border: none;
@@ -807,7 +807,7 @@ body {
     border-radius: 20px;
 }
 
-.button_join:before {
+.joinus:before {
     content: '';
     background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
     position: absolute;
@@ -823,19 +823,19 @@ body {
     border-radius: 20px;
 }
 
-.button_join:active {
+.joinus:active {
     color: #000
 }
 
-.button_join:active:after {
+.joinus:active:after {
     background: transparent;
 }
 
-.button_join:hover:before {
+.joinus:hover:before {
     opacity: 1;
 }
 
-.button_join:after {
+.joinus:after {
     z-index: -1;
     content: '';
     position: absolute;
