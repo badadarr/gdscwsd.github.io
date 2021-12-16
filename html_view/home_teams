@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Spartan&display=swap" rel="stylesheet" />
+    <link href="./main.css" rel="stylesheet" />
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="v155_172">
+        <div class="v155_173"></div><span class="v155_174">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor </span><span class="v155_175">Teams</span>
+        <div class="v155_176"><span class="v155_177">Education</span>
+            <div class="v155_178"></div>
+        </div>
+        <div class="v155_179"><span class="v155_180">Marketing </span>
+            <div class="v155_181"></div>
+        </div>
+        <div class="v155_182"><span class="v155_183">Finance</span>
+            <div class="v155_184"></div>
+        </div>
+        <div class="v155_185"><span class="v155_186">Project </span>
+            <div class="v155_187"></div>
+        </div>
+        <div class="v155_188"><span class="v155_189">Backend </span>
+            <div class="v155_190"></div>
+        </div>
+        <div class="v155_191"><span class="v155_192">Frontend </span>
+            <div class="v155_193"></div>
+        </div>
+        <div class="v155_194"><span class="v155_195">Event</span>
+            <div class="v155_196"></div>
+        </div>
+        <div class="v155_197"><span class="v155_198">Outreach</span>
+            <div class="v155_199"></div>
+        </div>
+    </div>
+</body>
+
+</html>
