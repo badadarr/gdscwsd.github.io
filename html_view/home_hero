@@ -20,4 +20,32 @@ the World</span></div><span class="v155_229">Education</span>
     </div>
 </body>
 
+<!-- Home Hero Page Section -->
+<section class="home-section">
+    <div class="container">
+        <div class="row mt-5 mb-5">
+            <div class="col-sm-12 position-relative p-4">
+                <div class="position-absolute top-0 end-0">
+                    <img src="assets/images/gdsc_ilustration.png" alt="gdsc_ilustration" , width="100%">
+                </div>
+                <div class="desc mt-4">
+                    <span class="v155_228">Change The World</span>
+                </div>
+                <button class="joinus">Join Us</button>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Final Home Hero Page Section-->
+
+<!-- About Page Section -->
+<!--Final About Page Section-->
+
+<!-- Teams Page Section -->
+<!--Final Teams Page Section-->
+
+<!-- Events Page Section -->
+<!--Final Events Page Section -->
+
+
 </html>
