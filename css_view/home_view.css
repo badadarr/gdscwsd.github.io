@@ -807,6 +807,10 @@ body {
     overflow: hidden;
 }
 
+.more {
+    display: none;
+}
+
 .name {
     color: #fff;
 }
